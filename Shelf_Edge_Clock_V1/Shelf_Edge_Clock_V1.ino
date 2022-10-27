@@ -50,7 +50,7 @@ DateTime MyDateAndTime;
 
 // How many NeoPixels are attached to the Arduino?
 #define LEDCLOCK_COUNT 9*7*4
-#define LEDDOWNLIGHT_COUNT 12
+#define LEDDOWNLIGHT_COUNT 14
 
 //(red * 65536) + (green * 256) + blue ->for 32-bit merged colour value so 16777215 equals white
 // or 3 hex byte 00 -> ff for RGB eg 0x123456 for red=12(hex) green=34(hex), and green=56(hex) 
