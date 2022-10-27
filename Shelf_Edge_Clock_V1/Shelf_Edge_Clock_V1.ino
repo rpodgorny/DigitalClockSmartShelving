@@ -49,7 +49,7 @@ DateTime MyDateAndTime;
 #define LEDDOWNLIGHT_PIN    5
 
 // How many NeoPixels are attached to the Arduino?
-#define LEDCLOCK_COUNT 216
+#define LEDCLOCK_COUNT 9*7*4
 #define LEDDOWNLIGHT_COUNT 12
 
 //(red * 65536) + (green * 256) + blue ->for 32-bit merged colour value so 16777215 equals white
